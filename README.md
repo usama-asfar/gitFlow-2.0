@@ -1,1 +1,1 @@
-# gitFlow-2.0
+# GitFlow 2.0
